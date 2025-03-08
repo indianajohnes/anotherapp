@@ -1,1 +1,2 @@
 coś tutaj pisze co ma być zmiana w tym pliku
+doaje modifikacje na nowy_branch
